@@ -1,5 +1,7 @@
 Wooyun Search
 ==============
+ 
+** Notice: 现在Wooyun已经停止运营，此Workflow已经失效！ **
 
 通过Alfred搜索wooyun漏洞的Workflow。
 
